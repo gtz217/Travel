@@ -5,6 +5,7 @@
   <home-icons :iconList="iconList"></home-icons>
   <home-recommend :recommendList="recommendList"></home-recommend>
   <home-weekend :weekendList="weekendList"></home-weekend>
+  <div>本项目为本人学习编写</div>
 </div>
 </template>
 
