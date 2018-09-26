@@ -41,7 +41,7 @@ export default {
     width: 100%
     height: 0
     // height: 26.67vm
-    padding-bottom: 26.67%
+    padding-bottom: 31.25%
     background: #eee
     .swiper-img
       width: 100%
