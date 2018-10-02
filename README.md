@@ -8,24 +8,6 @@
 # install dependencies
 npm install
 
-# install vue
-npm install vue
-
-# install vuex
-npm install vuex
-
-# install vue-awesome-swiper
-npm install vue-awesome-swiper
-
-# install axios
-npm install axios
-
-# install babel-polyfill
-npm install babel-polyfill
-
-# install fastclick
-npm install fastclick
-
 # serve with hot reload at localhost:8080
 npm run dev
 
